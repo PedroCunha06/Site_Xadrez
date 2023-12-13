@@ -1,4 +1,5 @@
-# The Site is a site of chess.
+# Website Chess.
+A simple website that explains a little about chess, created to apply knowledge in HTML and CSS
 
 The purpose of this site is to be able to explain quickly and basically how to play chess.
 
@@ -6,5 +7,5 @@ The purpose of this site is to be able to explain quickly and basically how to p
 
 ![Xadrez](images/tabuleiro_1.avif)
 
-## I need to remind you that this site is not ready yet!!! 
+Made with HTML and CSS (Responsive Website)
 
